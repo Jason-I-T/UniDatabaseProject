@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd source_files/
+
+java -jar DatabaseProject.jar
